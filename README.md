@@ -3,11 +3,7 @@
 ## Выбранный язык: Ocaml
 
 ## Книга
-[Introduction to
-Functional Programming
-and the Structure of
-Programming Languages
-using OCaml](https://www.ps.uni-saarland.de/~smolka/drafts/prog2021.pdf)
+[Developing applications with Objective caml](https://github.com/ocaml-community/awesome-ocaml/blob/master/books/Developing%20Applications%20With%20Objective%20Caml.pdf?ysclid=mggsjfxqj0903728766)
 
 ## Инструменты
 - Сборка ``dune``
